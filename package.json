@@ -1,0 +1,27 @@
+{
+  "name": "hubot-the-battle",
+  "version": "0.0.1",
+  "description": "Ensure that when you know, you know.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stahnma/hubot-the-battle.git"
+  },
+  "keywords": [
+    "gijoe",
+    "hubot",
+    "knowing",
+    "half",
+    "the",
+    "battle"
+  ],
+  "author": "stahnma",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/stahnma/hubot-the-battle/issues"
+  },
+  "homepage": "https://github.com/stahnma/hubot-the-battle#readme"
+}
