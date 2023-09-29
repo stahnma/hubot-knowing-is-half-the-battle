@@ -1,4 +1,4 @@
-# hubot-the-battle
+# hubot-knowing-is-half-the-battle
 This is a small module to output a random (curated) image about GI Joe if somebody says "knowing is half the battle".
 
 
@@ -12,7 +12,7 @@ The internal hubot that ran at Puppet, Inc for years. It needed new images since
 # Installation
 
 
-`npm install --save hubot-the-battle`
+`npm install --save hubot-knowing-is-half-the-battle`
 
-Add 'hubot-the-battle to your `external-scripts` file. That's all.
+Add 'hubot-knowing-is-half-the-battle to your `external-scripts` file. That's all.
 

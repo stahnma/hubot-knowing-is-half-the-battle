@@ -1,5 +1,5 @@
 {
-  "name": "hubot-the-battle",
+  "name": "hubot-knowing-is-half-the-battle",
   "version": "0.0.1",
   "description": "Ensure that when you know, you know.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stahnma/hubot-the-battle.git"
+    "url": "git+https://github.com/stahnma/hubot-knowing-is-half-the-battle.git"
   },
   "keywords": [
     "gijoe",
@@ -21,7 +21,7 @@
   "author": "stahnma",
   "license": "WTFPL",
   "bugs": {
-    "url": "https://github.com/stahnma/hubot-the-battle/issues"
+    "url": "https://github.com/stahnma/hubot-knowing-is-half-the-battle/issues"
   },
-  "homepage": "https://github.com/stahnma/hubot-the-battle#readme"
+  "homepage": "https://github.com/stahnma/hubot-knowing-is-half-the-battle"
 }
