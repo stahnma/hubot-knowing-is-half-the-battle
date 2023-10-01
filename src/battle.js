@@ -5,17 +5,13 @@
 // Author: stahnma
 // Configuration: none
 
-function randomKnow() {
-  var knowing = new Array();
-  knowing[0] = "https://i.imgur.com/yZqAF7e.gif"
-  knowing[1] = "https://i.imgur.com/1jcvTBp.jpg"
-  knowing[2] = "https://i.imgur.com/s88AWgH.png"
-  index = Math.floor(Math.random() * knowing.length);
-  return knowing[index];
-}
-
-module.exports = function(robot) {
-  robot.hear(/knowing is half the battle/i, function(msg) {
-    msg.send(randomKnow());
+module.exports = (robot) => {
+  robot.hear(/knowing is half the battle/i, (msg) => {
+    const knowing = [
+      'https://i.imgur.com/yZqAF7e.gif',
+      'https://i.imgur.com/1jcvTBp.jpg',
+      'https://i.imgur.com/s88AWgH.png',
+    ];
+    msg.send(msg.random(knowing));
   });
-}
+};
