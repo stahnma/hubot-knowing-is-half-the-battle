@@ -1,9 +1,19 @@
-// Description: Randomly sends a GI Joe knowing is half the battle image
+// Description: 
+//   Randomly sends a GI Joe knowing is half the battle image
 //
-// Commands: none
-// Dependencies: none
-// Author: stahnma
-// Configuration: none
+// Dependencies: 
+//   none
+//
+// Configuration: 
+//   none
+//
+// Commands:
+//   none
+//
+// Author: 
+//   stahnma
+//
+// Category: workflow
 
 function randomKnow() {
   var knowing = new Array();

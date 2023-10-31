@@ -1,6 +1,6 @@
 {
   "name": "hubot-knowing-is-half-the-battle",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Ensure that when you know, you know.",
   "main": "index.js",
   "scripts": {
